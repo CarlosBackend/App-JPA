@@ -1,0 +1,3 @@
+- Aplicação desktop
+- Aplicação feita em Java com JPA (HIBARNATE)
+- Front feito com Java Swing
